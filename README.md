@@ -13,9 +13,9 @@ A simple and efficient web app to convert PDF files into editable Word documents
 
 ## 🛠️ Tech Stack
 
-- ASP.NET Core MVC (.NET 9)
+- ASP.NET Core api (.NET 9)
 - C#
-- Razor Views
+
 - [Optional] Third-party library for PDF parsing (e.g., iTextSharp, PdfPig, or Aspose)
 
 ## 📦 Installation
